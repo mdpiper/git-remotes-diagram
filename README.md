@@ -1,2 +1,3 @@
-# github-remotes-diagram
-My favorite diagram.
+# git-remotes-diagram
+
+My favorite diagram!
